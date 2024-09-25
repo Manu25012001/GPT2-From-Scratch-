@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project involves building a **GPT-2 model** from scratch. It follows the principles of the **Transformer architecture** and focuses on creating a custom implementation of the GPT-2 model. The project covers every stage, from **data preprocessing** to **training**, allowing you to fully understand how GPT-2 works at a low level.
+This project involves building a **GPT-2 model** from scratch. It follows the principles of the **Transformer architecture** and focuses on creating a custom implementation of the GPT-2 model. The project covers every stage, allowing you to fully understand how GPT-2 works at a low level.
 
 ## Features
 
