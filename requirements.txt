@@ -1,0 +1,10 @@
+torch==2.0.1          # PyTorch for building and training the model
+transformers==4.12.0  # Hugging Face library for tokenizers and model utilities
+datasets==2.6.1       # For handling and loading datasets
+tokenizers==0.12.1    # Tokenization utilities for preparing text data
+tqdm==4.62.3          # For progress bars during training
+numpy==1.21.2         # Array operations and numerical computations
+scikit-learn==0.24.2  # Additional utilities, including metrics
+pandas==1.3.3         # Data manipulation and handling
+matplotlib==3.4.3     # For plotting and visualizations
+
